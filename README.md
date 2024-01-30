@@ -16,6 +16,8 @@ The main steps are as follows:
 5. Parameter Tuning
 6. Coalition game-theory/SHAP library for most important features
 
+You may refer to the Powerpoint slides (pptx) file for the full slide deck.
+
 ![Alt Text](Marketing.png)
 
 
