@@ -1,9 +1,10 @@
 
 # Marketing Data Project
 
-This dataset contains marketing data from a tech company aimed at converting individuals to purchase financial products. 
+This dataset contains marketing data from a tech company aimed at converting individuals to purchase financial products. The data is privately sourced from the tech company itself and is NOT public.
 
-The information is collected through various channels and encompasses a range of features that can be utilized for analysis, segmentation, and targeted marketing strategies.
+The main goal is to perform analysis on factors such as Age, Job Occupation, Marketing Success, Bank account balances and determine which of the key areas should be targetted and insights gained to further push for higher and faster conversion rate of customers.
+
 
 The main steps are as follows:
 
