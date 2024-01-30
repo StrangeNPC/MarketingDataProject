@@ -23,3 +23,6 @@ The main steps are as follows:
 Due to Github's 50mb limit, the presentation was divided into 3 .7z or zip files.
 
 These are to enable it to be uploaded to Github and should be watched in sequential order for explanations.
+
+If you are unfamiliar with how to open 7-Zip or Zip files, you may refer to the following link for the 7-Zip application to download and use to open:
+https://www.7-zip.org/
